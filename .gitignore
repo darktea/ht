@@ -1,0 +1,13 @@
+﻿
+.idea/
+ht.iml
+dtouch.log
+log
+logs
+target
+.gradle/
+out/
+build/
+config.client.cache
+config.client.log
+~/
